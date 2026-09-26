@@ -32,4 +32,4 @@ If your antivirus blocks the executable during startup or server monitoring, add
 ## Credits
 
 - Based on the architecture of **Reboot Launcher**.
-- Developed and maintained by the **FMod** team.
+- Developed and maintained by **rainless**.
